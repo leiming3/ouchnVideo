@@ -17,11 +17,11 @@ import java.util.List;
  */
 public class TestController {
     // 需要刷的视频地址 详见文档 别填错了
-    private static final String VIDEO_URL = "https://lms.ouchn.cn/course/70000025512/learning-activity/full-screen#/70002720249";
+    private static final String VIDEO_URL = "https://lms.ouchn.cn/course/40000035124/learning-activity/full-screen#/40002477539";
     // 用户名
-    private static final String USERNAME = "20350014XXXXX";
+    private static final String USERNAME = "2233001259860";
     // 密码
-    private static final String PASSWORD = "OuchnXXXX";
+    private static final String PASSWORD = "a18758559401";
     private static final String DRIVE_PATH = "F:\\Desktop\\Project\\ouchnVideo\\src\\main\\resources\\chromedriver.exe" ;
     public static Integer count = 0; // 这一行不要修改
 
